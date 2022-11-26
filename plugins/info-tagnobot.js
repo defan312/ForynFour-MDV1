@@ -6,7 +6,7 @@ let krizyn = 'https://telegra.ph/file/65289acb075702f9bb306.jpg'
 await conn.send3ButtonImg(m.chat, krizyn, "=====『 TAG TERDETEKSI 』=====\n\nIya ada perlu apa dengan bot? ", '📮 Silahkan Pilih Button dibawah ini', 'Group', '.allgc', 'Menu', '.menu', 'Store', '.store', m)
                         
 }
-handler.customPrefix = /(@+6289526416801)/i
+handler.customPrefix = /(@+6281321776496)/i
 handler.command = new RegExp
 
 module.exports = handler

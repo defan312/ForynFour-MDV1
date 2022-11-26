@@ -11,7 +11,7 @@ let charaingfo = `💬 *Name:* ${name}
 👤 *Character Type*: ${type}`
   const ftroli = {
     key : {
-    remoteJid: '6283136505591-1614953337@g.us',
+    remoteJid: '6281321776496-1614953337@g.us',
     participant : '0@s.whatsapp.net'
     },
     message: {

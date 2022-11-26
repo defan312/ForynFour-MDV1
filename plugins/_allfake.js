@@ -26,8 +26,9 @@ handler.all = async function (m) {
         
 		// Ini untuk command crator/owner
 		global.kontak2 = [
-         [owner[0], await this.getName(owner[0] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'github.com/krizynofc', true],
-         [owner[1], await this.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'mhdfakri14@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
+         [owner[0], await this.getName(owner[0] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'github.com/sasal66', true],
+         [owner[1], await this.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'defansugiarto5@gmail.com', true],
+         [owner[2], await this.getName(owner[2] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'https://www.instagram.com/defan_sugiarto', true] // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
         ]
         
 		// ucapan ini mah
@@ -86,7 +87,7 @@ global.ftroli = {
                             itemCount : 1,
                             status: 1,
                             surface : 1,
-                            message: 'KrizynOfc', //Kasih namalu
+                            message: 'ᴹᴿ᭄defα͢͢͢ή彡', //Kasih namalu
                             orderTitle: tb,
                             thumbnail: fs.readFileSync('./media/krizyn.jpg'), //Gambarnye
                             sellerJid: '0@s.whatsapp.net'
